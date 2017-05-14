@@ -1,0 +1,10 @@
+{
+  "name": "xxx-profile",
+  "version": "0.1.24",
+  "author": "xxx",
+  "summary": "Provides the profile component of the roles/profiles design pattern.",
+  "license": "Copyright 2016 xxx Plc",
+  "source": "http://ldsrvpptgitp001.xxx.net/Modules/profile.git",
+  "dependencies": [],
+  "description": "Module to configure xxx system profiles."
+}
